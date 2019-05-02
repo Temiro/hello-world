@@ -1,0 +1,1171 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="9c522b76-ebb8-4da3-823a-77fb326104aa" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/AA__TiesiniaiAlgoritmai/Akvariumas/Duomenys.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/AA__TiesiniaiAlgoritmai/Akvariumas/Mainas.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/AA__TiesiniaiAlgoritmai/Akvariumas/Rezultatai.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/AA__TiesiniaiAlgoritmai/Akvariumas/Zuvis.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/AA__TiesiniaiAlgoritmai/Automobilis/Duomenys.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/AA__TiesiniaiAlgoritmai/Automobilis/Mainas.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/AA__TiesiniaiAlgoritmai/Automobilis/Rezultatai.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/AA__TiesiniaiAlgoritmai/Pamoka/Duomenys.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/AA__TiesiniaiAlgoritmai/Pamoka/Mainas.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/AA__TiesiniaiAlgoritmai/Pamoka/PamokuSkaicius.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/AA__TiesiniaiAlgoritmai/Pamoka/Rezultatai.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/AA__TiesiniaiAlgoritmai/Statybininkas/Duomenys.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/AA__TiesiniaiAlgoritmai/Statybininkas/Mainas.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/AA__TiesiniaiAlgoritmai/Statybininkas/Rezultatai.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/AA__TiesiniaiAlgoritmai/Statybininkas/Statybininkas.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/AA__TiesiniaiAlgoritmai/Taupikle/Maiinas.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/AA__TiesiniaiAlgoritmai/Taupyklė/Duomenys.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/AA__TiesiniaiAlgoritmai/Taupyklė/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/AA__TiesiniaiAlgoritmai/Taupyklė/Mainas.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/AA__TiesiniaiAlgoritmai/Taupyklė/Pinigai.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/AA__TiesiniaiAlgoritmai/Taupyklė/Rezultatai.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/AA__TiesiniaiAlgoritmai/ane" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/AbstrakciosFiguros/AbstraktiMainas.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/AbstrakciosFiguros/Apskritimas.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/AbstrakciosFiguros/Figura.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/AbstrakciosFiguros/Kvadratas.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/AbstrakciosFiguros/Trikampis.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/AbstrakciosKlases/MainKlase.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/AbstrakciosKlases/Paukstis.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/AbstrakciosKlases/Varna.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Abstraktu3/Darbuotojas.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Abstraktu3/Duomenys.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Abstraktu3/Mainas.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Abstraktu3/Rezultatai.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Abstraktu3/Studentas.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Abstraktu3/Zmogus.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Abstraktu3/ZmoniuKonteineris.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/AntraSavaite4d/Animal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/AntraSavaite4d/Cat.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/AntraSavaite4d/Chicken.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/AntraSavaite4d/Cow.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/AntraSavaite4d/Dog.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/AntraSavaite4d/Farm.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/AntraSavaite4d/PagrindineKlase.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/AntraSavaite4d/Sheep.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ApsuktiMasyva/ApsuktiMasyva.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ApsuktiMasyva/ApsuktiMasyvaPaprastaiConcole.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ApsuktiMasyva/Irasomas.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ApsuktiMasyva/MaksimumasMinimumas5Uzduotis.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ApsuktiMasyva/Nuskaitomas.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ApsuktiMasyva/ReikšmesKuriosKartojasi.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ApsuktiMasyva/VidurkioLiginimas3Uzduotis.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ApsuktiMasyva/Vidurkis2Uzduotis.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ButoPajieska/Butas.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ButoPajieska/Duomenys.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ButoPajieska/Kriterijai.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ButoPajieska/Kriterijai.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ButoPajieska/Mainas.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Ciklai/Ciklai.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Ciklai/CiklasCikle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Ciklai/IkiSimtoIrAtgal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Ciklai/IndexuSuma.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Ciklai/IndexuSumaRiba.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Ciklai/TikLyginiaiSkaiciai.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Degalai/Geles.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Degalai/Treniruotes.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Degalai/VanduoLitrais.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Degalai/litruSunaudoja.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Employee/Address.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Employee/AlguDidinimas.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Employee/Employee.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Employee/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Fakturos/Mainas.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Fakturos/Saskaita.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Figuros/Duomenys.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Figuros/Figura.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Figuros/Kvadratas.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Figuros/KvadratasSkaciavimai.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Figuros/Mainas.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Figuros/Rezultatai.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Figuros/Staciakampis.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Figuros/StaciakampisSkaiciavimai.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Figuros/StaciakampisTrikampis.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Figuros/StaciakampisTrikampisSkaiciavimai.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Generic/BendrineKlase.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Generic/DviejuTipu.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Generic/GenericMainas.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Generic/Kartojasi.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Generic/Pora.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Interface/Darbuotojas.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Interface/Interface.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Interface/Klientas.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Interface/Mainas.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Interface/Mokejimas.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Interfeisai/Darbuotojas.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Interfeisai/Interfeisai.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Interfeisai/Mokejimas.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/KlaiduGaudimas/PamokosUzduotis/PamokosUzduotis.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/KlaiduGaudimas/SkaitimasRasymas.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/KlaiduGaudimas/ZodzioRaidesIeskojimas.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/KlaiduGaudimas/Zodzio_Indeksas.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/KlaiduGaudimas/atsarginisFailas.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/KlaiduGaudimas/rasymas.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/KlaiduGaudimas/skaitymas.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Klase/Atsakymai.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Klase/Duomenys.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Klase/Klase.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Klase/Mokinys.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Krepsinis/Mainas.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Krepsinis/krepsininkai.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Krepsinis/taskai.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Krepsinis/zaidejai.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Listas/Container.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Listas/Empleyee.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Listas/Mainas.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Masynos/Car.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Masynos/Container.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Masynos/Mainas.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Masynos/Masynu_Duomenys.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Masynos/Skaiciavimai.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/MokiniuVidurkiai/Duomenys.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/MokiniuVidurkiai/Mainas.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/MokiniuVidurkiai/Mokiniai.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/MokiniuVidurkiai/Pazimiai.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/NamuDarbai/DarbuotojuDuomenys.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/NamuDarbai/Mainas.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/NamuDarbai/Masina.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/NamuDarbai/Masinos.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/NamuDarbai/Zmones.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Pardavimai/Duomenys.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Pardavimai/Mainas.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Pardavimai/Telefonas.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Paukstis_Kaskoks/Kregzde.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Paukstis_Kaskoks/Paukstis.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Paukstis_Kaskoks/Varna.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Paukstis_Kaskoks/Zvirblis.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/PirmaUzduotis.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/PirmaUzduotis1/AntrasMainas.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/PirmaUzduotis1/Mainas.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/PirmaUzduotis1/Zmogus.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/PirmaUzduotis1/masinuMasyvas.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Prekyba/BuitineTechnika.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Prekyba/Duomenys.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Prekyba/Duomenys2.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Prekyba/Mainas.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Prekyba/Technika.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Prekyba/Uzsakymai.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Prisiminimui/Auntras.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Prisiminimui/Pernauja.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Prisiminimui/Prisimename.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Prisiminimui/PrisimenameSuMokytoju.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Prisiminimui/Prisiminimui2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Prisiminimui/pirmas.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Prisiminimui/pirmas2.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ProgramuotojuKlase/Duomenys.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ProgramuotojuKlase/Kriterijai.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ProgramuotojuKlase/Mainas.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ProgramuotojuKlase/Programuotijai.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ProgramuotojuKlase/Rezultatai.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/RandomizedBoolen/RandomBoolen.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/SkaitymasIrRasymas/Irasytas.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/SkaitymasIrRasymas/SkaitymasIrRasymas.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/SkaitymasIrRasymas/Test.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/SkaitymoRasymoUzduotis/SeptintaUzduotis.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/SkaitymoRasymoUzduotis/SeptintaUzduotis1.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/SkaitymoRasymoUzduotis/SeptintaUzduotis2.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/SkaitymoRasymoUzduotis/Uzduotis8.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/SkaitymoRasymoUzduotis/Uzduotis81.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/SkaitymoRasymoUzduotis/Uzduotis82.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/SkaniausiSaldainiai/Duomenys.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/SkaniausiSaldainiai/Mainas.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/SkaniausiSaldainiai/Saldainiai.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Studentai/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Studentai/Studentai.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Studentai/Studentas.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Swich/Swich.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/TextAlinght/TekstasTarpe.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/TextAlinght/darvienas.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Tree/BinaryTree.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Tree/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/TrikampioPlotas/ApskritimoPlotas.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/TrikampioPlotas/ArSkaiciusLyginis.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/TrikampioPlotas/DienosPavadinimas.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/TrikampioPlotas/KvadratineLygis.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/TrikampioPlotas/Palindromas.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/TrikampioPlotas/PirmasPaskutinis.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/TrikampioPlotas/StaciakampioPlotas.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/TrikampioPlotas/TeigiamasArNeigiamas.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/TrikampioPlotas/TrikampioPlotas.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/TrikampioPlotas/TrysSkaiciaiKurisDydziausiais.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Zmogus/Atsakymai.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Zmogus/Duomenys.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Zmogus/ZmogausKlase.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Zmogus/Zmogus.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/fakturosTik___AntraUzduotis/Employee.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/fakturosTik___AntraUzduotis/Mainas.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/fakturosTik___AntraUzduotis/Zmones.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/rekursija/AntraRekursijosUzduotis/Antras.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/rekursija/AntraRekursijosUzduotis/Sarasas.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/rekursija/AntraRekursijosUzduotis/baigtas.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/rekursija/PirmaRekursijosUzduotis/Antras.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/rekursija/PirmaRekursijosUzduotis/Pirmas.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/rekursija/PirmaRekursijosUzduotis/Sarasas.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/rekursija/PirmaRekursijosUzduotis/baigtas.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/rekursija/RekursijaPamoka.java" afterDir="false" />
+    </list>
+    <ignored path="$PROJECT_DIR$/out/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="hello-world" />
+  </component>
+  <component name="FileEditorManager">
+    <splitter split-orientation="horizontal" split-proportion="0.6207658">
+      <split-first>
+        <leaf>
+          <file pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/src/AA__TiesiniaiAlgoritmai/Automobilis/Rezultatai.txt">
+              <provider selected="true" editor-type-id="text-editor" />
+            </entry>
+          </file>
+          <file pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/src/AA__TiesiniaiAlgoritmai/Automobilis/Mainas.java">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="51">
+                  <caret line="3" selection-start-line="3" selection-end-line="3" selection-end-column="31" />
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/src/AA__TiesiniaiAlgoritmai/Statybininkas/Mainas.java">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="408">
+                  <caret line="27" column="52" selection-start-line="27" selection-start-column="52" selection-end-line="27" selection-end-column="52" />
+                  <folding>
+                    <element signature="imports" expanded="true" />
+                  </folding>
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file pinned="false" current-in-tab="true">
+            <entry file="file://$PROJECT_DIR$/src/AA__TiesiniaiAlgoritmai/Statybininkas/Rezultatai.txt">
+              <provider selected="true" editor-type-id="text-editor" />
+            </entry>
+          </file>
+        </leaf>
+      </split-first>
+      <split-second>
+        <leaf>
+          <file pinned="false" current-in-tab="true">
+            <entry file="file://$PROJECT_DIR$/src/AA__TiesiniaiAlgoritmai/Taupikle/Maiinas.java">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="969">
+                  <caret line="63" column="81" selection-start-line="63" selection-start-column="81" selection-end-line="63" selection-end-column="81" />
+                  <folding>
+                    <element signature="imports" expanded="true" />
+                  </folding>
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/src/AA__TiesiniaiAlgoritmai/Statybininkas/Statybininkas.java">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="459">
+                  <caret line="41" selection-start-line="41" selection-end-line="41" />
+                </state>
+              </provider>
+            </entry>
+          </file>
+        </leaf>
+      </split-second>
+    </splitter>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>ats</find>
+      <find>min</find>
+      <find>visosEilutes</find>
+      <find>nuskaitytasTekstas</find>
+      <find>tekstas</find>
+      <find>Mokinys</find>
+      <find>Kvadratas</find>
+      <find>String[] masyvas</find>
+      <find>atsakymai</find>
+      <find>pridetiMokiny</find>
+      <find>objektuMasyvas</find>
+      <find>mokiniuMasyvas</find>
+      <find>System.out</find>
+      <find>masynosTar2_2010</find>
+      <find>visi</find>
+      <find>obj</find>
+      <find>Car</find>
+      <find>Int</find>
+      <find>rasyti</find>
+      <find>masinuMasyvas</find>
+      <find>daugiausiaiTaskuPelne</find>
+      <find>compareTo</find>
+      <find>com</find>
+    </findStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/src/NamuDarbai/Masinos.txt" />
+        <option value="$PROJECT_DIR$/src/NamuDarbai/Mainas.java" />
+        <option value="$PROJECT_DIR$/src/TextAlinght/TekstasTarpe.java" />
+        <option value="$PROJECT_DIR$/src/fakturosTik___AntraUzduotis/Employee.java" />
+        <option value="$PROJECT_DIR$/src/TextAlinght/darvienas.java" />
+        <option value="$PROJECT_DIR$/src/Krepsinis/krepsininkai.java" />
+        <option value="$PROJECT_DIR$/src/Krepsinis/Atsakymai.txt" />
+        <option value="$PROJECT_DIR$/src/Studentai/Studentas.java" />
+        <option value="$PROJECT_DIR$/src/ButoPajieska/Kriterijai.java" />
+        <option value="$PROJECT_DIR$/src/ButoPajieska/Butas.java" />
+        <option value="$PROJECT_DIR$/src/ButoPajieska/Mainas.java" />
+        <option value="$PROJECT_DIR$/src/ProgramuotojuKlase/Programuotijai.java" />
+        <option value="$PROJECT_DIR$/src/Krepsinis/Mainas.java" />
+        <option value="$PROJECT_DIR$/src/ProgramuotojuKlase/Duomenys.txt" />
+        <option value="$PROJECT_DIR$/src/ProgramuotojuKlase/Kriterijai.java" />
+        <option value="$PROJECT_DIR$/src/ProgramuotojuKlase/Mainas.java" />
+        <option value="$PROJECT_DIR$/src/Pardavimai/Duomenys.txt" />
+        <option value="$PROJECT_DIR$/src/Pardavimai/Telefonas.java" />
+        <option value="$PROJECT_DIR$/src/Pardavimai/Mainas.java" />
+        <option value="$PROJECT_DIR$/src/MokiniuVidurkiai/Duomenys.txt" />
+        <option value="$PROJECT_DIR$/src/MokiniuVidurkiai/Mokiniai.java" />
+        <option value="$PROJECT_DIR$/src/MokiniuVidurkiai/Pazimiai.java" />
+        <option value="$PROJECT_DIR$/src/MokiniuVidurkiai/Mainas.java" />
+        <option value="$PROJECT_DIR$/src/Prekyba/Duomenys.txt" />
+        <option value="$PROJECT_DIR$/src/Prekyba/Technika.java" />
+        <option value="$PROJECT_DIR$/src/Prekyba/Uzsakymai.java" />
+        <option value="$PROJECT_DIR$/src/Prekyba/Duomenys2.txt" />
+        <option value="$PROJECT_DIR$/src/Prekyba/Mainas.java" />
+        <option value="$PROJECT_DIR$/src/SkaniausiSaldainiai/Duomenys.txt" />
+        <option value="$PROJECT_DIR$/src/SkaniausiSaldainiai/Saldainiai.java" />
+        <option value="$PROJECT_DIR$/src/SkaniausiSaldainiai/Atsakymai.txt" />
+        <option value="$PROJECT_DIR$/src/AA__TiesiniaiAlgoritmai/Pamoka/PamokuSkaicius.java" />
+        <option value="$PROJECT_DIR$/src/AA__TiesiniaiAlgoritmai/Pamoka/Duomenys.txt" />
+        <option value="$PROJECT_DIR$/src/SkaniausiSaldainiai/Mainas.java" />
+        <option value="$PROJECT_DIR$/src/AA__TiesiniaiAlgoritmai/Pamoka/Rezultatai.txt" />
+        <option value="$PROJECT_DIR$/src/AA__TiesiniaiAlgoritmai/Akvariumas/Duomenys.txt" />
+        <option value="$PROJECT_DIR$/src/AA__TiesiniaiAlgoritmai/Akvariumas/Zuvis.java" />
+        <option value="$PROJECT_DIR$/src/AA__TiesiniaiAlgoritmai/Taupyklė/Duomenys.txt" />
+        <option value="$PROJECT_DIR$/src/AA__TiesiniaiAlgoritmai/Taupyklė/Pinigai.java" />
+        <option value="$PROJECT_DIR$/src/AA__TiesiniaiAlgoritmai/Pamoka/Mainas.java" />
+        <option value="$PROJECT_DIR$/src/AA__TiesiniaiAlgoritmai/Akvariumas/Mainas.java" />
+        <option value="$PROJECT_DIR$/src/AA__TiesiniaiAlgoritmai/Taupyklė/Mainas.java" />
+        <option value="$PROJECT_DIR$/src/AA__TiesiniaiAlgoritmai/Taupyklė/Main.java" />
+        <option value="$PROJECT_DIR$/src/AA__TiesiniaiAlgoritmai/Mainas/Maiinas.java" />
+        <option value="$PROJECT_DIR$/src/AA__TiesiniaiAlgoritmai/Taupikle/Maiinas.java" />
+        <option value="$PROJECT_DIR$/src/AA__TiesiniaiAlgoritmai/Automobilis/Duomenys.txt" />
+        <option value="$PROJECT_DIR$/src/AA__TiesiniaiAlgoritmai/Automobilis/Mainas.java" />
+        <option value="$PROJECT_DIR$/src/AA__TiesiniaiAlgoritmai/Statybininkas/Statybininkas.java" />
+        <option value="$PROJECT_DIR$/src/AA__TiesiniaiAlgoritmai/Statybininkas/Duomenys.txt" />
+        <option value="$PROJECT_DIR$/src/AA__TiesiniaiAlgoritmai/Statybininkas/Rezultatai.txt" />
+        <option value="$PROJECT_DIR$/src/AA__TiesiniaiAlgoritmai/Statybininkas/Mainas.java" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="686" />
+    <option name="width" value="921" />
+    <option name="height" value="867" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="PackagesPane" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="hello-world" type="b2602c69:ProjectViewProjectNode" />
+              <item name="hello-world" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="hello-world" type="b2602c69:ProjectViewProjectNode" />
+              <item name="hello-world" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="hello-world" type="b2602c69:ProjectViewProjectNode" />
+              <item name="hello-world" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="AA__TiesiniaiAlgoritmai" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="hello-world" type="b2602c69:ProjectViewProjectNode" />
+              <item name="hello-world" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="fakturosTik___AntraUzduotis" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="hello-world" type="b2602c69:ProjectViewProjectNode" />
+              <item name="hello-world" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="Interface" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="hello-world" type="b2602c69:ProjectViewProjectNode" />
+              <item name="hello-world" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="Tree" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1551087421709" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../Naujas git" />
+  </component>
+  <component name="RecentsManager">
+    <key name="ExtractSuperBase.RECENT_KEYS">
+      <recent name="Krepsinis" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Pc\Desktop\git\hello-world\src\NamuDarbai" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="rekursija.AntraRekursijosUzduotis" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Pc\Desktop\git\hello-world\src\AA__TiesiniaiAlgoritmai\Statybininkas" />
+      <recent name="C:\Users\Pc\Desktop\git\hello-world\src\ButoPajieska" />
+      <recent name="C:\Users\Pc\Desktop\git\hello-world\src\Studentai" />
+      <recent name="C:\Users\Pc\Desktop\git\hello-world\src\Krepsinis" />
+      <recent name="C:\Users\Pc\Desktop\git\hello-world\src\rekursija\AntraRekursijosUzduotis" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Application.Mainas (3)">
+    <configuration name="Maiinas" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="AA__TiesiniaiAlgoritmai.Taupikle.Maiinas" />
+      <module name="hello-world" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="AA__TiesiniaiAlgoritmai.Taupikle.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="AA__TiesiniaiAlgoritmai.Taupyklė.Main" />
+      <module name="hello-world" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="AA__TiesiniaiAlgoritmai.Taupyklė.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Mainas (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="AA__TiesiniaiAlgoritmai.Akvariumas.Mainas" />
+      <module name="hello-world" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="AA__TiesiniaiAlgoritmai.Akvariumas.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Mainas (3)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="AA__TiesiniaiAlgoritmai.Statybininkas.Mainas" />
+      <module name="hello-world" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="AA__TiesiniaiAlgoritmai.Statybininkas.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Mainas" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="AA__TiesiniaiAlgoritmai.Automobilis.Mainas" />
+      <module name="hello-world" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="AA__TiesiniaiAlgoritmai.Automobilis.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.Mainas (1)" />
+      <item itemvalue="Application.Main" />
+      <item itemvalue="Application.Maiinas" />
+      <item itemvalue="Application.Mainas" />
+      <item itemvalue="Application.Mainas (3)" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Mainas (3)" />
+        <item itemvalue="Application.Mainas" />
+        <item itemvalue="Application.Maiinas" />
+        <item itemvalue="Application.Main" />
+        <item itemvalue="Application.Mainas (1)" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="9c522b76-ebb8-4da3-823a-77fb326104aa" name="Default Changelist" comment="" />
+      <created>1548168270129</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1548168270129</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+      <is-preview-enabled value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1616" height="876" extended-state="6" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49832776" visible="true" weight="0.15125" />
+      <window_info id="Structure" order="1" sideWeight="0.50167227" side_tool="true" weight="0.17875" />
+      <window_info id="Image Layers" order="2" />
+      <window_info id="Designer" order="3" />
+      <window_info id="UI Designer" order="4" />
+      <window_info id="Capture Tool" order="5" />
+      <window_info id="Favorites" order="6" sideWeight="0.50161815" side_tool="true" weight="0.15231362" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32941177" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.21437909" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.40784314" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" weight="0.15746972" />
+      <window_info anchor="bottom" id="Terminal" order="7" weight="0.32974428" />
+      <window_info anchor="bottom" id="Event Log" order="8" side_tool="true" />
+      <window_info anchor="bottom" id="Version Control" order="9" weight="0.33202615" />
+      <window_info anchor="bottom" id="Messages" order="10" weight="0.31895426" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" id="Maven" order="4" />
+      <window_info anchor="right" id="Theme Preview" order="5" />
+      <window_info anchor="right" id="Capture Analysis" order="6" />
+      <window_info anchor="right" id="Palette&#9;" order="7" />
+    </layout>
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="RECENTLY_FILTERED_USER_GROUPS">
+                <collection />
+              </option>
+              <option name="RECENTLY_FILTERED_BRANCH_GROUPS">
+                <collection />
+              </option>
+              <option name="COLUMN_ORDER">
+                <list>
+                  <option value="0" />
+                  <option value="1" />
+                  <option value="2" />
+                  <option value="3" />
+                </list>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="RECENT_FILTERS">
+      <map>
+        <entry key="Branch">
+          <value>
+            <list />
+          </value>
+        </entry>
+        <entry key="User">
+          <value>
+            <list />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/AntraSavaite4d/PagrindineKlase.java</url>
+          <line>7</line>
+          <properties />
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/AntraSavaite4d/Farm.java</url>
+          <line>25</line>
+          <properties />
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Krepsinis/Mainas.java</url>
+          <line>191</line>
+          <properties />
+          <option name="timeStamp" value="13" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/ProgramuotojuKlase/Mainas.java</url>
+          <line>45</line>
+          <properties />
+          <option name="timeStamp" value="14" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/SkaniausiSaldainiai/Mainas.java</url>
+          <line>66</line>
+          <properties />
+          <option name="timeStamp" value="17" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/AA__TiesiniaiAlgoritmai/Taupikle/Maiinas.java</url>
+          <line>60</line>
+          <properties />
+          <option name="timeStamp" value="23" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/AA__TiesiniaiAlgoritmai/Automobilis/Mainas.java</url>
+          <line>41</line>
+          <properties />
+          <option name="timeStamp" value="24" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/AA__TiesiniaiAlgoritmai/Statybininkas/Mainas.java</url>
+          <line>46</line>
+          <properties />
+          <option name="timeStamp" value="26" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/MokiniuVidurkiai/Mainas.java</url>
+          <line>24</line>
+          <properties class="MokiniuVidurkiai.Mainas" method="skaityti">
+            <option name="EMULATED" value="true" />
+          </properties>
+          <option name="timeStamp" value="15" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/SkaniausiSaldainiai/Mainas.java</url>
+          <line>33</line>
+          <properties class="SkaniausiSaldainiai.Mainas" method="readMokiniai">
+            <option name="EMULATED" value="true" />
+          </properties>
+          <option name="timeStamp" value="16" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/AA__TiesiniaiAlgoritmai/Pamoka/Mainas.java</url>
+          <line>19</line>
+          <properties class="AA__TiesiniaiAlgoritmai.Pamoka.Mainas" method="pamokos">
+            <option name="EMULATED" value="true" />
+          </properties>
+          <option name="timeStamp" value="18" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/AA__TiesiniaiAlgoritmai/Akvariumas/Mainas.java</url>
+          <line>18</line>
+          <properties class="AA__TiesiniaiAlgoritmai.Akvariumas.Mainas" method="skaitymas">
+            <option name="EMULATED" value="true" />
+          </properties>
+          <option name="timeStamp" value="19" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/AA__TiesiniaiAlgoritmai/Statybininkas/Mainas.java</url>
+          <line>51</line>
+          <properties class="AA__TiesiniaiAlgoritmai.Statybininkas.Mainas" method="skaityti">
+            <option name="EMULATED" value="true" />
+          </properties>
+          <option name="timeStamp" value="25" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/AA__TiesiniaiAlgoritmai/Statybininkas/Mainas.java</url>
+          <line>34</line>
+          <properties class="AA__TiesiniaiAlgoritmai.Statybininkas.Mainas" method="kaina">
+            <option name="EMULATED" value="true" />
+          </properties>
+          <option name="timeStamp" value="27" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="debuggerHistoryManager">
+    <expressions id="evaluateExpression">
+      <expression>
+        <expression-string>karve</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>fermyte.toString()</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+    </expressions>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/ProgramuotojuKlase/Programuotijai.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="259">
+          <caret line="53" column="12" selection-start-line="53" selection-start-column="12" selection-end-line="53" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/MokiniuVidurkiai/Mainas.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="341">
+          <caret line="69" column="5" lean-forward="true" selection-start-line="14" selection-start-column="3" selection-end-line="69" selection-end-column="5" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Prekyba/Uzsakymai.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="238">
+          <caret line="14" column="25" selection-start-line="14" selection-start-column="25" selection-end-line="14" selection-end-column="25" />
+          <folding>
+            <element signature="e#237#238#0" expanded="true" />
+            <element signature="e#263#264#0" expanded="true" />
+            <element signature="e#218#219#0" expanded="true" />
+            <element signature="e#243#244#0" expanded="true" />
+            <element signature="e#280#281#0" expanded="true" />
+            <element signature="e#308#309#0" expanded="true" />
+            <element signature="e#338#339#0" expanded="true" />
+            <element signature="e#363#364#0" expanded="true" />
+            <element signature="e#400#401#0" expanded="true" />
+            <element signature="e#428#429#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Prekyba/Duomenys2.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="6" column="6" selection-start-line="6" selection-start-column="6" selection-end-line="6" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Prekyba/Mainas.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="462">
+          <caret line="74" lean-forward="true" selection-start-line="74" selection-end-line="74" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ButoPajieska/Mainas.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="408">
+          <caret line="33" column="92" lean-forward="true" selection-start-line="33" selection-start-column="92" selection-end-line="33" selection-end-column="92" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Krepsinis/Atsakymai.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="5" selection-start-column="5" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ProgramuotojuKlase/Mainas.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="167">
+          <caret line="69" column="82" lean-forward="true" selection-start-line="69" selection-start-column="8" selection-end-line="69" selection-end-column="82" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/AA__TiesiniaiAlgoritmai/Pamoka/Duomenys.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="4" column="30" lean-forward="true" selection-start-line="4" selection-start-column="30" selection-end-line="4" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/SkaniausiSaldainiai/Mainas.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-973">
+          <caret line="21" column="20" selection-start-line="21" selection-start-column="20" selection-end-line="21" selection-end-column="20" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ProgramuotojuKlase/Rezultatai.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="5" column="20" selection-start-line="5" selection-start-column="20" selection-end-line="5" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/SkaniausiSaldainiai/Atsakymai.txt">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/SkaniausiSaldainiai/Duomenys.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="11" column="11" selection-start-line="11" selection-start-column="11" selection-end-line="11" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/SkaniausiSaldainiai/Saldainiai.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="222">
+          <caret line="32" selection-start-line="32" selection-end-line="32" />
+          <folding>
+            <element signature="e#608#609#0" expanded="true" />
+            <element signature="e#642#643#0" expanded="true" />
+            <element signature="e#696#697#0" expanded="true" />
+            <element signature="e#742#743#0" expanded="true" />
+            <element signature="e#783#784#0" expanded="true" />
+            <element signature="e#819#820#0" expanded="true" />
+            <element signature="e#878#879#0" expanded="true" />
+            <element signature="e#928#929#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/AA__TiesiniaiAlgoritmai/ane">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/AA__TiesiniaiAlgoritmai/Pamoka/PamokuSkaicius.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="272">
+          <caret line="16" column="29" selection-start-line="16" selection-start-column="29" selection-end-line="16" selection-end-column="29" />
+          <folding>
+            <element signature="e#215#216#0" expanded="true" />
+            <element signature="e#244#245#0" expanded="true" />
+            <element signature="e#387#388#0" expanded="true" />
+            <element signature="e#426#427#0" expanded="true" />
+            <element signature="e#456#457#0" expanded="true" />
+            <element signature="e#490#491#0" expanded="true" />
+            <element signature="e#519#520#0" expanded="true" />
+            <element signature="e#564#565#0" expanded="true" />
+            <element signature="e#600#601#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/AA__TiesiniaiAlgoritmai/Taupyklė/Mainas.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="833">
+          <caret line="49" selection-start-column="43" selection-end-line="49" />
+          <folding>
+            <element signature="e#0#1642#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/AA__TiesiniaiAlgoritmai/Akvariumas/Mainas.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="680">
+          <caret line="40" selection-start-line="40" selection-end-line="40" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/AA__TiesiniaiAlgoritmai/Pamoka/Mainas.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="273">
+          <caret line="25" column="43" selection-start-line="25" selection-start-column="16" selection-end-line="25" selection-end-column="43" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/AA__TiesiniaiAlgoritmai/Akvariumas/Zuvis.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="306">
+          <caret line="18" column="33" selection-start-line="18" selection-start-column="33" selection-end-line="18" selection-end-column="33" />
+          <folding>
+            <element signature="e#465#466#0" expanded="true" />
+            <element signature="e#496#497#0" expanded="true" />
+            <element signature="e#607#608#0" expanded="true" />
+            <element signature="e#654#655#0" expanded="true" />
+            <element signature="e#692#693#0" expanded="true" />
+            <element signature="e#744#745#0" expanded="true" />
+            <element signature="e#791#792#0" expanded="true" />
+            <element signature="e#985#986#0" expanded="true" />
+            <element signature="e#1021#1022#0" expanded="true" />
+            <element signature="e#1080#1081#0" expanded="true" />
+            <element signature="e#1130#1131#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Figuros/Mainas.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-136">
+          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Interfeisai/Interfeisai.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Interfeisai/Darbuotojas.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Prisiminimui/Prisimename.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Pardavimai/Mainas.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="542">
+          <caret line="46" column="40" selection-start-line="46" selection-start-column="40" selection-end-line="46" selection-end-column="40" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Pardavimai/Duomenys.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="9" column="3" selection-start-line="9" selection-start-column="3" selection-end-line="9" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/MokiniuVidurkiai/Duomenys.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="8" column="28" selection-start-line="8" selection-start-column="28" selection-end-line="8" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Masynos/Atsakymai.txt">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Krepsinis/Mainas.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3754">
+          <caret line="229" column="40" selection-start-line="229" selection-start-column="40" selection-end-line="229" selection-end-column="40" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/AA__TiesiniaiAlgoritmai/Automobilis/Duomenys.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="28" lean-forward="true" selection-start-column="28" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Masynos/Masynu_Duomenys.txt">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/AA__TiesiniaiAlgoritmai/Taupyklė/Pinigai.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="10" selection-start-line="10" selection-end-line="10" />
+          <folding>
+            <element signature="e#363#364#0" expanded="true" />
+            <element signature="e#392#393#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Klase/Atsakymai.txt">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Klase/Duomenys.txt">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/fakturosTik___AntraUzduotis/Atsakymai.txt">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/AA__TiesiniaiAlgoritmai/Taupyklė/Duomenys.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="26" selection-start-line="2" selection-start-column="26" selection-end-line="2" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/AA__TiesiniaiAlgoritmai/Taupyklė/Rezultatai.txt">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/AA__TiesiniaiAlgoritmai/Akvariumas/Duomenys.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="51">
+          <caret line="3" column="20" selection-start-line="3" selection-start-column="20" selection-end-line="3" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/fakturosTik___AntraUzduotis/Mainas.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2176">
+          <caret line="164" column="1" lean-forward="true" selection-start-line="164" selection-start-column="1" selection-end-line="164" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/AA__TiesiniaiAlgoritmai/Akvariumas/Rezultatai.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="30" selection-start-column="30" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/AA__TiesiniaiAlgoritmai/Pamoka/Rezultatai.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="1" column="24" selection-start-line="1" selection-start-column="24" selection-end-line="1" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/AA__TiesiniaiAlgoritmai/Statybininkas/Duomenys.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="19" lean-forward="true" selection-start-line="2" selection-start-column="19" selection-end-line="2" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Prisiminimui/PrisimenameSuMokytoju.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-646">
+          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/AA__TiesiniaiAlgoritmai/Statybininkas/Statybininkas.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="459">
+          <caret line="41" selection-start-line="41" selection-end-line="41" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/AA__TiesiniaiAlgoritmai/Taupikle/Maiinas.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="969">
+          <caret line="63" column="81" selection-start-line="63" selection-start-column="81" selection-end-line="63" selection-end-column="81" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk-11.0.2/lib/src.zip!/java.base/java/lang/NumberFormatException.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="192">
+          <caret line="64" selection-start-line="64" selection-end-line="64" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/AA__TiesiniaiAlgoritmai/Taupyklė/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="408">
+          <caret line="24" column="55" lean-forward="true" selection-start-line="24" selection-start-column="55" selection-end-line="24" selection-end-column="55" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/AA__TiesiniaiAlgoritmai/Automobilis/Rezultatai.txt">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/AA__TiesiniaiAlgoritmai/Automobilis/Mainas.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="51">
+          <caret line="3" selection-start-line="3" selection-end-line="3" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/AA__TiesiniaiAlgoritmai/Statybininkas/Mainas.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="408">
+          <caret line="27" column="52" selection-start-line="27" selection-start-column="52" selection-end-line="27" selection-end-column="52" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/AA__TiesiniaiAlgoritmai/Statybininkas/Rezultatai.txt">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+  </component>
+</project>

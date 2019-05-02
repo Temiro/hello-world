@@ -1,0 +1,53 @@
+1 Uzduotis 
+12 11 10 9 8 7 6 5 4 3 2 1 
+---------------------
+2 Uzduotis 
+3.0
+---------------------
+3 Uzduotis 
+
+skaicius = 12yra Lyginis
+skaicius = 11yra neginis
+skaicius = 10yra Lyginis
+skaicius = 9yra neginis
+skaicius = 8yra Lyginis
+skaicius = 7yra neginis
+skaicius = 6yra Lyginis
+skaicius = 5yra neginis
+skaicius = 4yra Lyginis
+skaicius = 3yra neginis
+skaicius = 2yra Lyginis
+skaicius = 1yra neginis
+---------------------
+4 Uzduotis 
+6.5
+---------------------
+5 Uzduotis 
+Minimumas = 1
+---------------------
+6 Uzduotis 
+   1
+   2
+   3
+   4
+   5
+   6
+   7
+   8
+   9
+---------------------
+7 Uzduotis 
+Sudelioti Mazejimo tvarka 
+12
+11
+10
+9
+8
+7
+6
+5
+4
+3
+2
+1
+---------------------

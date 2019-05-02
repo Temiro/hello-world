@@ -1,0 +1,5 @@
+Kiek pamokų yra pirmadienį? 5
+Kiek pamokų yra antradienį? 6
+Kiek pamokų yra trečiadienį? 4
+Kiek pamokų yra ketvirtadienį? 5
+Kiek pamokų yra penktadienį? 4

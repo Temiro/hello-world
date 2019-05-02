@@ -1,0 +1,4 @@
+Kiek žuvų gyvena akvariume? 5
+Kiek žuvų į akvariumą įdedama kiekvieną
+dieną? 3
+Kiek dienų praėjo? 3

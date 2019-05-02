@@ -1,0 +1,3 @@
+Kiek yra monetų po 5 ct? 5
+Kiek yra monetų po 20 ct? 0
+Kiek yra monetų po 2 Lt? 3
